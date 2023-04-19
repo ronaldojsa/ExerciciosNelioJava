@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"exercicio_composicao","l":"application"},{"m":"exercicio_composicao","l":"entities"},{"m":"exercicio_composicao","l":"entities.enums"}];updateSearchResults();
