@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ronaldod
+ *
+ */
+module herança {
+}
